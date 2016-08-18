@@ -3,7 +3,7 @@
     public class SomeClass
     {
         /// <summary>
-        /// Something indeed.
+        /// Something indeed. WTF
         /// </summary>
         public string Something { get; set; }
     }
